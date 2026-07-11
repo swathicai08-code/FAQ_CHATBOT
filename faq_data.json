@@ -1,0 +1,42 @@
+[
+    {
+        "question":"What is Python?",
+        "answer":"Python is a high-level programming language used for web development, AI, automation, and data science."
+    },
+    {
+        "question":"What is Flask?",
+        "answer":"Flask is a lightweight Python web framework used to build web applications."
+    },
+    {
+        "question":"What is HTML?",
+        "answer":"HTML stands for HyperText Markup Language and is used to create web pages."
+    },
+    {
+        "question":"What is CSS?",
+        "answer":"CSS is used to style HTML pages by adding colors, layouts, and animations."
+    },
+    {
+        "question":"What is JavaScript?",
+        "answer":"JavaScript is a programming language used to make web pages interactive."
+    },
+    {
+        "question":"What is Artificial Intelligence?",
+        "answer":"Artificial Intelligence enables computers to perform tasks that normally require human intelligence."
+    },
+    {
+        "question":"What is Machine Learning?",
+        "answer":"Machine Learning is a branch of AI that allows computers to learn from data."
+    },
+    {
+        "question":"What is NLP?",
+        "answer":"Natural Language Processing helps computers understand human language."
+    },
+    {
+        "question":"What is Render?",
+        "answer":"Render is a cloud platform used to deploy web applications."
+    },
+    {
+        "question":"Who developed Python?",
+        "answer":"Python was created by Guido van Rossum in 1991."
+    }
+]
