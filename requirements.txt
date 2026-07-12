@@ -1,4 +1,3 @@
 Flask
-nltk
-scikit-learn
 gunicorn
+scikit-learn
